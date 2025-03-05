@@ -44,8 +44,8 @@ The project is divided into two main folders:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Onibenjo/realtime-chat-app.git
+   cd realtime-chat-app
    ```
 
 2. **Install dependencies for both server and client**:
